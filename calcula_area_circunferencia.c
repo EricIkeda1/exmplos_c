@@ -5,7 +5,7 @@ int main(){
 
     scanf("%f", &raio);
 
-    area = 3,14159 * raio * raio;
+    area = 3.14159 * raio * raio;
 
     printf("%f", area);
 
